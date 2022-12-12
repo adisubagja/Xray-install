@@ -2,6 +2,14 @@
 
 Bash script for installing Xray in operating systems such as CentOS / Debian / OpenSUSE that support systemd.
 
+## RECOMMEND
+
+**THIS WILL AUTOMATICALLY USE XRAY-CORE MODIFIED VERSION**
+
+```
+# bash -c "$(curl -L https://raw.githubusercontent.com/adisubagja/Xray-install/main/install-release.sh)" @ install --beta
+```
+
 [Filesystem Hierarchy Standard (FHS)](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard)
 
 ```
